@@ -1,0 +1,26 @@
+body {
+  background-color: #f9ed69;
+  background-image:
+  font-style:italic;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+  font-style:italic;
+}
+
+h1 {
+  border-color: #95e1d3;
+  color: #00adb5;
+  font-style:italic;
+}
+
+h3 {
+  border-color: #95e1d3;
+  color: #00adb5;
+  font-style:italic;
+}
